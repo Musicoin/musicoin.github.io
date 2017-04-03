@@ -1866,6 +1866,15 @@
 					background: #829bc9;
 				}
 
+			.icon.circle.fa-slack {
+				background: #3fb1a3;
+				color: #fff;
+			}
+
+			.icon.circle.fa-slack:hover {
+				background: #44c3b5;
+			}
+
 			.icon.circle.fa-google-plus {
 				background: #db6b67;
 				color: #fff;
